@@ -1,0 +1,8 @@
+battery-analysis/
+├── data_loader.py          # Script 1: Dataset loader and combiner
+├── feature_extractor.py    # Script 2: Feature engineering
+├── transformer_model.py    # Script 3: Multi-factor transformer
+├── requirements.txt        # Python dependencies
+├── README.md              # This file
+└── data/
+   
