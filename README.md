@@ -24,6 +24,7 @@ A comprehensive pipeline for analyzing battery degradation under mechanical stre
 - **Analysis**: Quantifies pressure effects on battery capacity
 
 ## Project Structure
+<pre>
 battery-analysis/
 ├── data_loader.py # Script 1: Load and combine Excel files
 ├── feature_extractor.py # Script 2: Feature engineering
@@ -45,3 +46,4 @@ battery-analysis/
 ├── enhanced_battery_data_with_features.csv
 ├── pressure_effect_analysis.png
 └── final_results.json
+</pre>
